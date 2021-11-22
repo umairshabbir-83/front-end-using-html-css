@@ -1,0 +1,35 @@
+body{
+font-family:Monospace;
+color:White;
+font-size:20px;
+background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("Review.jpg");
+background-size:Cover;
+padding:15px;}
+
+h1{
+font-family:Algerian;
+color:White;
+letter-spacing:15px;
+text-align:Center;
+background:Black;
+border:Solid;
+border-top-left-radius:25px;
+border-bottom-right-radius:25px;
+padding:15px;}
+
+footer{
+color:White;
+font-Size:24px;
+text-align:Center;
+padding:15px;}
+
+input[type=submit]{
+font-family:Monospace;
+color: white;
+font-size:20px;
+background-color: Black;
+Margin-Top:15px;
+padding:15px;
+border:Solid;
+border-Radius:10px;
+cursor: Pointer;}

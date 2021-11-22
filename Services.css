@@ -1,0 +1,37 @@
+body{
+    font-family:Monospace;
+    font-weight: bolder;
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("Service.jpg");
+    background-size:Cover;
+    padding:15px;}
+    
+    h1{
+    font-family:Algerian;
+    color:White;
+    letter-spacing:30px;
+    text-align:Center;
+    background:Black;
+    border:Solid;
+    border-top-left-radius:25px;
+    border-bottom-right-radius:25px;
+    padding:15px;}
+    
+    footer{
+    font-family:Monospace;
+    text-align:Center;
+    color:White;
+    font-Size:24px;
+    padding:15px;}
+    
+    a:link{
+    display:Block;
+    color:#FFFFFF;
+    font-size:24px;
+    text-align:Center;
+    text-decoration:None;
+    text-transform:Uppercase;
+    padding:2%;
+    padding-top:25px;}
+
+    a:visited{
+    color:burlywood;}
