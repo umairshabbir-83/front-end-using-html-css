@@ -1,5 +1,5 @@
 # front-end-using-html-css
-This repository simply contains the front end of a website named "Computer Repair Service".
+This repository simply contains the front end of a website named `"Computer Repair Service"`.
 
 ## Features Included:
 
@@ -30,3 +30,6 @@ This repository simply contains the front end of a website named "Computer Repai
 
 # Review Screen
 ![Review (Computer Repair Service)](https://user-images.githubusercontent.com/93377842/142774462-a9b9984b-babb-49bd-b2ab-cd768b0eda8a.png)
+
+## Note
+Download all the files 📂 in this repository to test.
